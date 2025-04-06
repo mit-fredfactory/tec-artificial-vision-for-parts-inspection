@@ -1,8 +1,8 @@
 
 # data.yaml
 
-train: /content/drive/MyDrive/3er Semestre/YOLO/Data_set/images/train
-val: /content/drive/MyDrive/3er Semestre/YOLO/Data_set/images/ver
+train: Data_set_1/images/train
+val: Data_set_1/images/ver
 
 nc: 1  # Número de clases
 names: ['class1']  # Nombres de las clases
