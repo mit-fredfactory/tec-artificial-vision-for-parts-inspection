@@ -1,0 +1,8 @@
+
+# data.yaml
+
+train: Data_set_1/images/train
+val: Data_set_1/images/ver
+
+nc: 1  # Número de clases
+names: ['class1']  # Nombres de las clases
