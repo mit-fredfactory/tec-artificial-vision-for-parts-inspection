@@ -1,5 +1,5 @@
 # Ignorar datasets descargados y modelos entrenados
 av_test1-1/
-runs/
+# runs/
 __pycache__/
 *.pyc
