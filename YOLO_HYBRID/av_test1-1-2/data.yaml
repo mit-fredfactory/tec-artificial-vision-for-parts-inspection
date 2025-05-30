@@ -1,0 +1,15 @@
+names:
+- Pieza1
+- Pieza2
+- Pieza3
+- Pieza4
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: av_test1-1
+  url: https://universe.roboflow.com/avyolo/av_test1-1/dataset/2
+  version: 2
+  workspace: avyolo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
