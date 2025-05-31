@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Pieza_1', 'Pieza_2', 'Pieza_3', 'Pieza_4']
+
+roboflow:
+  workspace: avyolo
+  project: av_test1real
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/avyolo/av_test1real/dataset/3
